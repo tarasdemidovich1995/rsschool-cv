@@ -108,4 +108,12 @@ a {
     width: 33%;
 }
 
+.skills, 
+.experience,
+.code-examples, 
+.education, 
+.english {
+    margin-top: 30px;
+}
+
 
