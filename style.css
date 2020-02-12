@@ -1,15 +1,31 @@
 html {
     font-family: 'Lemonada';
-    font-size: 24px;
+    font-size: 20px;
+    color: #898789;
+    text-align: justify;
 }
 
 h1 {
     font-size: 2rem;
     line-height: 2rem;
+    font-weight: 700;
+    color: #faba0e;
+    margin-bottom: 10px;
 }
 
 h2 {
     font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+p {
+    line-height: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #faba0e;
+    cursor: pointer;
 }
 
 .container {
@@ -20,9 +36,55 @@ h2 {
 
 .container__left {
     width: 30%;
+    background-color: #fbfbfb;
 }
 
 .container__right {
     width: 70%;
 }
+
+.page-header {
+    padding: 50px 0 50px 0;
+}
+
+.page-header__photo {
+    width: 70%;
+}
+
+.page-header__photo img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.main-info {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-info__social {
+    align-self: flex-end;
+    display: flex;
+}
+
+.social-link {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.icon {
+    width: 100%;
+}
+
+.icon path {
+    fill: #898789;
+}
+
+.icon:hover path {
+    fill: #faba0e;
+}
+
 
