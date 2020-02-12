@@ -101,7 +101,7 @@ a:hover {
 }
 
 .contacts {
-    margin-top: 20px;
+    margin-top: 40px;
     width: 70%;
 }
 
@@ -123,7 +123,7 @@ a:hover {
 .code-examples, 
 .education, 
 .english {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .skills__list-item {
@@ -202,7 +202,7 @@ a:hover {
 }
 
 .page-footer {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .page-footer__contacts {
@@ -211,7 +211,7 @@ a:hover {
 }
 
 .page-footer__contacts-list {
-    margin-top: 30px;
+    margin-top: 40px;
     display: flex;
     justify-content: space-between;
 }
