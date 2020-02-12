@@ -30,8 +30,12 @@ p {
 
 a {
     text-decoration: none;
-    color: #faba0e;
+    color: #898789;
     cursor: pointer;
+}
+
+a:hover {
+    color: #faba0e;
 }
 
 .container {
@@ -177,6 +181,10 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.code-examples__link span {
+    margin-bottom: 20px;
 }
 
 .code-examples__img {
