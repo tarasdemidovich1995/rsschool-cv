@@ -195,4 +195,19 @@ a:hover {
 .icon_git {
     margin-top: -14px;
 }
+
+.page-footer {
+    margin-top: 30px;
+}
+
+.page-footer__contacts {
+    width: 100%;
+    border-top: solid #898789 1px;
+}
+
+.page-footer__contacts-list {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
     
