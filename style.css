@@ -5,6 +5,7 @@ html {
 
 h1 {
     font-size: 2rem;
+    line-height: 2rem;
 }
 
 h2 {
@@ -14,4 +15,14 @@ h2 {
 .container {
     width: 1024px;
     margin: 0 auto;
+    display: flex;
 }
+
+.container__left {
+    width: 30%;
+}
+
+.container__right {
+    width: 70%;
+}
+
