@@ -101,7 +101,12 @@ a:hover {
 }
 
 .contacts {
-    margin-top: 20px
+    margin-top: 20px;
+    width: 70%;
+}
+
+.page-header .container:last-child {
+    flex-direction: row-reverse;
 }
 
 .contacts__list {
