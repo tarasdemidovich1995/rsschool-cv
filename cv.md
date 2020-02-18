@@ -5,4 +5,4 @@
 5. Code examples: [My repository](https://github.com/tarasdemidovich1995), [Codewars account](https://www.codewars.com/users/taraskin).
 6. I completed and got a sertification of the course website development with using HTML, CSS & JavaScript in IT-Academy. Then I studied JS basics myself on [learnjavascript.ru](https://learn.javascript.ru/) that I passed 70% and trained my skills on [Codewars](https://www.codewars.com/users/taraskin).
 7. I'm graduated BNTU, faculty of Energy, Thermal Power Plants department. Also I completed course in IT-Academy.
-8. My English level is A2. I'm preparing with a repeater for 2 month and planning to doing it until the course's final.
+8. My English level is A2. I'm preparing with a tutor for 2 month and planning to doing it until the course's final.
